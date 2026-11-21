@@ -219,14 +219,24 @@ export const menuSections = [
 
 export const events = [
   {
-    id: 'varun-dagar-live-tapovan',
-    title: 'Varun Dagar — Live in Tapovan',
-    type: 'Singing & dance performance',
-    date: '2026-11-14',
-    time: '8:00 PM onwards',
-    note: 'Join us for a live singing and dance performance. Limited reservations available.',
-    image: '/assets/chapter-varun-dagar-event.png',
-    bookingText: 'Hi! I would like to reserve a spot for Varun Dagar live in Tapovan on 14 November at The Himalayan Chapter.',
+    id: 'underground-movement-justbhav',
+    title: 'The Underground Movement',
+    type: 'DJ night · Justbhav',
+    date: '2026-11-21',
+    time: '7:00 PM onwards',
+    note: 'A DJ night experience featuring Justbhav, playing techno, EDM and Bollytech. Limited seats; booking required.',
+    image: '/assets/chapter-underground-movement-event.png',
+    bookingText: 'Hi! I would like to reserve a seat for The Underground Movement with Justbhav on 21 November at The Himalayan Chapter.',
+  },
+  {
+    id: 'afterglow-sundowner-sessions',
+    title: 'Afterglow — Sundowner Sessions',
+    type: 'Live music · Dark Melodies',
+    date: '2026-11-22',
+    time: '4:30 PM onwards',
+    note: 'The sunset is just the beginning. Join Dark Melodies for an evening of music and sundowner vibes. Limited seats; booking required.',
+    image: '/assets/chapter-afterglow-event.png',
+    bookingText: 'Hi! I would like to reserve a seat for Afterglow Sundowner Sessions with Dark Melodies on 22 November at The Himalayan Chapter.',
   },
 ];
 
